@@ -120,13 +120,10 @@ The dataset includes information such as:
 
 ## 📷 Dashboard Preview
 
-### Main Dashboard
 
-> *(Upload your dashboard screenshot inside the **Images** folder and update the path below.)*
-markdown
+## 📸 Dashboard Preview
 
-![Insurance Risk & Claim Analysis Dashboard](images/insurance_dashboard.png.png)
-```
+![Insurance Risk & Claim Analysis Dashboard](Images/insurance_dashboard.png.png)
 
 
 
