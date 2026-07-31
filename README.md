@@ -118,8 +118,6 @@ The dataset includes information such as:
 
 ---
 
-## 📷 Dashboard Preview
-
 
 ## 📸 Dashboard Preview
 
